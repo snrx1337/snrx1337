@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @snrx1337
 - 👀 I'm interested in ... Learn everything about hacking and software development.
-- 🌱 I’m currently learning ... Python and Lua
+- 🌱 I’m currently learning ... Python and JS
 - 💞️ I try to collaborate on ... small projects where I can improve my learning
 - 📫 How to reach me ... Discord: snorx#9999
 
