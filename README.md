@@ -2,7 +2,7 @@
 - 👀 I'm interested in ... Learn everything about hacking and software development.
 - 🌱 I’m currently learning ... Python and Lua
 - 💞️ I try to collaborate on ... small projects where I can improve my learning
-- 📫 How to reach me ... Discord: .1824#1824
+- 📫 How to reach me ... Discord: snorx#9999
 
 <!---
 snrx1337/snrx1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
